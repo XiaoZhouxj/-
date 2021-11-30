@@ -1,3 +1,7 @@
+"""
+程序目标:通过自定义函数，实现RPSLS游戏。
+程序作者:土木四班周旭杰
+"""
 import random
 def name_to_number(name):
     """
